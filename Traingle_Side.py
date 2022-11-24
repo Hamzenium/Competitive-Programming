@@ -18,3 +18,4 @@ class Solution(object):
         
     nums = [1,1,5,2,3]
     print(largestPerimeter(nums))
+# time complexity is O(n)
